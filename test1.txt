@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 54CE-82AC
+
+ Directory of C:\Users\Shubham Band\OneDrive\Desktop\MyProjectTest01
+
+17-01-2024  18:25    <DIR>          .
+17-01-2024  18:20    <DIR>          ..
+17-01-2024  18:25                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  213,352,325,120 bytes free
